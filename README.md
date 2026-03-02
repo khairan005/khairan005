@@ -66,11 +66,11 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:mochamadkhairan?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:khairan005?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/mochamadkhairan/mochamadkhairan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/khairan005/khairan005/output/snake.svg" alt="Snake animation" />
 
 ###
